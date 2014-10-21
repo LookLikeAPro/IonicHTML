@@ -37,7 +37,9 @@ angular.module('App', ['ionic','ngSanitize', 'ionic.utils'])
 
 .controller('MainCtrl', ['$scope','$sce', '$sceDelegate', '$localstorage', function ($scope,$sce,$sceDelegate,$localstorage) {
   $scope.fields = $localstorage.getObject('fields', {
-    a: {text: ''}});
+    a: {text: ''},
+    b: {text: ''}
+  });
   $scope.output = "";
   $scope.$watch('fields', function (fields) {
     console.log('"fields": ' + JSON.stringify(fields, null, '\t'));
@@ -52,10 +54,6 @@ angular.module('App', ['ionic','ngSanitize', 'ionic.utils'])
   };
   $scope.resize = function () {
     $scope.$broadcast('scroll.resize');
-  };
-  $scope.updateEditor = function (id) {
-    var element = document.getElementById(id);
-    element.style.height = element.scrollHeight + "px";
   };
   $scope.parse = function (){
     $scope.output=$sceDelegate.trustAs($sce.HTML, $scope.fields.a.text);
