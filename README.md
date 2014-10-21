@@ -1,4 +1,4 @@
-IonicHTML
+IonicHTML Cross Platform HTML Designer
 =========
 
 
