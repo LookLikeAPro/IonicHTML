@@ -2,5 +2,5 @@ IonicHTML
 =========
 
 
-Ionic interface designer app
-By Jerry Zhou
+<p>Ionic interface designer app</p>
+<p>By Jerry Zhou</p>
