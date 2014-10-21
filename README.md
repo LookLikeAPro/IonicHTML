@@ -1,6 +1,5 @@
 IonicHTML
 =========
-Cross Platform HTML Designer
+<p>Cross Platform HTML Designer</p>
 
-<p>Ionic interface designer app</p>
 <p>By Jerry Zhou</p>
