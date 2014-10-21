@@ -1,0 +1,476 @@
+2014-10-07 22:14:44.365 test2[6733:195426] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/1F6D4566-5538-4562-B369-EE5776B0C428/data/Containers/Data/Application/23CAF7A3-B8BB-4614-8207-772EA8907715/Library/Cookies/Cookies.binarycookies
+2014-10-07 22:14:44.458 test2[6733:195426] Multi-tasking -> Device: YES, App: YES
+2014-10-07 22:14:44.466 test2[6733:195426] Unlimited access to network resources
+2014-10-07 22:14:44.611 test2[6733:195426] [CDVTimer][keyboard] 0.073016ms
+2014-10-07 22:14:44.611 test2[6733:195426] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-07 22:14:44.611 test2[6733:195426] [CDVTimer][statusbar] 0.181019ms
+2014-10-07 22:14:44.611 test2[6733:195426] [CDVTimer][TotalPluginStartup] 0.642002ms
+2014-10-07 22:14:44.995 test2[6733:195426] Resetting plugins due to page load.
+2014-10-07 22:14:45.158 test2[6733:195426] Finished load of: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/1F6D4566-5538-4562-B369-EE5776B0C428/data/Containers/Bundle/Application/3C8E18D4-7F3C-4B0E-8C11-FDEE8D1D0767/test2.app/www/index.html
+2014-10-07 22:33:11.055 test2[7340:208795] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/1F6D4566-5538-4562-B369-EE5776B0C428/data/Containers/Data/Application/977C2E66-372E-4204-A72C-CF8A8938C4EF/Library/Cookies/Cookies.binarycookies
+2014-10-07 22:33:11.146 test2[7340:208795] Multi-tasking -> Device: YES, App: YES
+2014-10-07 22:33:11.152 test2[7340:208795] Unlimited access to network resources
+2014-10-07 22:33:11.282 test2[7340:208795] [CDVTimer][keyboard] 0.122011ms
+2014-10-07 22:33:11.283 test2[7340:208795] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-07 22:33:11.283 test2[7340:208795] [CDVTimer][statusbar] 0.199020ms
+2014-10-07 22:33:11.283 test2[7340:208795] [CDVTimer][TotalPluginStartup] 0.873983ms
+2014-10-07 22:33:11.489 test2[7340:208795] Resetting plugins due to page load.
+2014-10-07 22:33:11.688 test2[7340:208795] Finished load of: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/1F6D4566-5538-4562-B369-EE5776B0C428/data/Containers/Bundle/Application/237ECFEB-61D1-4FA6-BD0D-63A8B02EC3B5/test2.app/www/index.html
+2014-10-07 23:02:37.108 test2[7921:222335] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/1F6D4566-5538-4562-B369-EE5776B0C428/data/Containers/Data/Application/E110D9FF-4279-4307-A109-E73C1AE6359A/Library/Cookies/Cookies.binarycookies
+2014-10-07 23:02:37.160 test2[7921:222335] Multi-tasking -> Device: YES, App: YES
+2014-10-07 23:02:37.169 test2[7921:222335] Unlimited access to network resources
+2014-10-07 23:02:37.345 test2[7921:222335] [CDVTimer][keyboard] 0.062048ms
+2014-10-07 23:02:37.345 test2[7921:222335] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-07 23:02:37.345 test2[7921:222335] [CDVTimer][statusbar] 0.128984ms
+2014-10-07 23:02:37.346 test2[7921:222335] [CDVTimer][TotalPluginStartup] 0.526011ms
+2014-10-07 23:02:37.531 test2[7921:222335] Resetting plugins due to page load.
+2014-10-07 23:02:37.759 test2[7921:222335] Finished load of: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/1F6D4566-5538-4562-B369-EE5776B0C428/data/Containers/Bundle/Application/7B741F38-3711-47B3-947D-5E39F4030882/test2.app/www/index.html
+2014-10-07 23:05:54.954 test2[8155:224818] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/1F6D4566-5538-4562-B369-EE5776B0C428/data/Containers/Data/Application/DE99E5E3-68B6-49E1-A184-B047537ED27B/Library/Cookies/Cookies.binarycookies
+2014-10-07 23:05:55.024 test2[8155:224818] Multi-tasking -> Device: YES, App: YES
+2014-10-07 23:05:55.030 test2[8155:224818] Unlimited access to network resources
+2014-10-07 23:05:55.170 test2[8155:224818] [CDVTimer][keyboard] 0.084996ms
+2014-10-07 23:05:55.170 test2[8155:224818] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-07 23:05:55.171 test2[8155:224818] [CDVTimer][statusbar] 0.281990ms
+2014-10-07 23:05:55.171 test2[8155:224818] [CDVTimer][TotalPluginStartup] 0.936985ms
+2014-10-07 23:05:55.231 test2[8155:224818] Resetting plugins due to page load.
+2014-10-07 23:05:55.482 test2[8155:224818] Finished load of: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/1F6D4566-5538-4562-B369-EE5776B0C428/data/Containers/Bundle/Application/044DCCB6-A595-48CC-8FFC-BDDFF8F9B98C/test2.app/www/index.html
+2014-10-07 23:06:12.906 test2[8155:224818] "fields": {
+	"a": {
+		"text": "T",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:06:13.330 test2[8155:224818] "fields": {
+	"a": {
+		"text": "Tg",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:06:13.591 test2[8155:224818] "fields": {
+	"a": {
+		"text": "Tgg",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:06:13.844 test2[8155:224818] "fields": {
+	"a": {
+		"text": "Tggk",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:06:14.000 test2[8155:224818] "fields": {
+	"a": {
+		"text": "Tggkk",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:06:14.161 test2[8155:224818] "fields": {
+	"a": {
+		"text": "Tggkkk",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:06:14.759 test2[8155:224818] "fields": {
+	"a": {
+		"text": "Rtf kill",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:06:15.821 test2[8155:224818] "fields": {
+	"a": {
+		"text": "Rtf kill\nJ",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:06:16.033 test2[8155:224818] "fields": {
+	"a": {
+		"text": "Rtf kill\nJh",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:06:16.281 test2[8155:224818] "fields": {
+	"a": {
+		"text": "Rtf kill\nJhb",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:06:16.714 test2[8155:224818] "fields": {
+	"a": {
+		"text": "Rtf kill\nKnob",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:07:32.611 test2[8326:225812] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/1F6D4566-5538-4562-B369-EE5776B0C428/data/Containers/Data/Application/59322029-157B-413D-A41B-D19A552BE877/Library/Cookies/Cookies.binarycookies
+2014-10-07 23:07:32.741 test2[8326:225812] Multi-tasking -> Device: YES, App: YES
+2014-10-07 23:07:32.749 test2[8326:225812] Unlimited access to network resources
+2014-10-07 23:07:32.854 test2[8326:225812] [CDVTimer][keyboard] 0.063956ms
+2014-10-07 23:07:32.855 test2[8326:225812] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-07 23:07:32.855 test2[8326:225812] [CDVTimer][statusbar] 0.127017ms
+2014-10-07 23:07:32.855 test2[8326:225812] [CDVTimer][TotalPluginStartup] 0.530005ms
+2014-10-07 23:07:32.970 test2[8326:225812] Resetting plugins due to page load.
+2014-10-07 23:07:33.202 test2[8326:225812] Finished load of: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/1F6D4566-5538-4562-B369-EE5776B0C428/data/Containers/Bundle/Application/EEFE7211-46C8-4769-BB8B-6C6A27A643A2/test2.app/www/index.html
+2014-10-07 23:07:47.008 test2[8326:225812] "fields": {
+	"a": {
+		"text": "R",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:07:47.265 test2[8326:225812] "fields": {
+	"a": {
+		"text": "Rv",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:07:47.916 test2[8326:225812] "fields": {
+	"a": {
+		"text": "Every",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:07:48.214 test2[8326:225812] "fields": {
+	"a": {
+		"text": "Every time I",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:07:48.524 test2[8326:225812] "fields": {
+	"a": {
+		"text": "Every time I see",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:07:48.711 test2[8326:225812] "fields": {
+	"a": {
+		"text": "Every time I see the",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:07:49.186 test2[8326:225812] "fields": {
+	"a": {
+		"text": "Every time I see the new",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:07:49.452 test2[8326:225812] "fields": {
+	"a": {
+		"text": "Every time I see the new version",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:07:49.635 test2[8326:225812] "fields": {
+	"a": {
+		"text": "Every time I see the new version is",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:07:54.290 test2[8326:225812] "fields": {
+	"a": {
+		"text": "Every time I see the new version is",
+		"edit": false
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-07 23:07:54.952 test2[8326:225812] "fields": {
+	"a": {
+		"text": "Every time I see the new version is",
+		"edit": true
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-09 01:24:18.128 test2[7542:189211] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/1F6D4566-5538-4562-B369-EE5776B0C428/data/Containers/Data/Application/65EE0294-1E35-47A9-94EA-BEDF2EBABBE3/Library/Cookies/Cookies.binarycookies
+2014-10-09 01:24:18.204 test2[7542:189211] Multi-tasking -> Device: YES, App: YES
+2014-10-09 01:24:18.232 test2[7542:189211] Unlimited access to network resources
+2014-10-09 01:24:18.540 test2[7542:189211] [CDVTimer][keyboard] 0.074983ms
+2014-10-09 01:24:18.540 test2[7542:189211] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-09 01:24:18.540 test2[7542:189211] [CDVTimer][statusbar] 0.236988ms
+2014-10-09 01:24:18.541 test2[7542:189211] [CDVTimer][TotalPluginStartup] 0.775993ms
+2014-10-09 01:24:18.719 test2[7542:189211] Resetting plugins due to page load.
+2014-10-09 01:24:19.064 test2[7542:189211] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-10-09 01:24:19.066 test2[7542:189211] Resetting plugins due to page load.
+2014-10-09 01:24:19.069 test2[7542:189211] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-10-09 01:24:20.338 test2[7542:189211] Resetting plugins due to page load.
+2014-10-09 01:24:34.837 test2[7542:189211] "fields": {
+	"a": {
+		"text": "TheEvery time I see the new version is",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-09 01:24:34.889 test2[7542:189211] "fields": {
+	"a": {
+		"text": "The Every time I see the new version is",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-09 01:24:35.933 test2[7542:189211] "fields": {
+	"a": {
+		"text": "The \nEvery time I see the new version is",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-15 16:19:12.627 Ionic HTML[26779:3777219] Multi-tasking -> Device: YES, App: YES
+2014-10-15 16:19:12.660 Ionic HTML[26779:3777219] Unlimited access to network resources
+2014-10-15 16:19:13.204 Ionic HTML[26779:3777219] [CDVTimer][keyboard] 0.108004ms
+2014-10-15 16:19:13.219 Ionic HTML[26779:3777219] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-15 16:19:13.219 Ionic HTML[26779:3777219] [CDVTimer][statusbar] 0.301957ms
+2014-10-15 16:19:13.219 Ionic HTML[26779:3777219] [CDVTimer][TotalPluginStartup] 15.348017ms
+2014-10-15 16:19:13.554 Ionic HTML[26779:3777219] Resetting plugins due to page load.
+2014-10-15 16:19:14.387 Ionic HTML[26779:3777219] Finished load of: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/1F6D4566-5538-4562-B369-EE5776B0C428/data/Containers/Bundle/Application/5390A2B5-D13F-45ED-85E3-06D0E871CEBA/Ionic%20HTML.app/www/index.html
+2014-10-15 16:19:23.503 Ionic HTML[26779:3777219] "fields": {
+	"a": {
+		"text": "The Every time I see the new version isr",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-15 16:32:36.322 Ionic HTML[27423:3855348] Multi-tasking -> Device: YES, App: YES
+2014-10-15 16:32:36.329 Ionic HTML[27423:3855348] Unlimited access to network resources
+2014-10-15 16:32:36.459 Ionic HTML[27423:3855348] [CDVTimer][keyboard] 0.113964ms
+2014-10-15 16:32:36.459 Ionic HTML[27423:3855348] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-15 16:32:36.459 Ionic HTML[27423:3855348] [CDVTimer][statusbar] 0.132978ms
+2014-10-15 16:32:36.459 Ionic HTML[27423:3855348] [CDVTimer][TotalPluginStartup] 0.595987ms
+2014-10-15 16:32:36.704 Ionic HTML[27423:3855348] Resetting plugins due to page load.
+2014-10-15 16:32:37.060 Ionic HTML[27423:3855348] Finished load of: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/1F6D4566-5538-4562-B369-EE5776B0C428/data/Containers/Bundle/Application/0B46CFA7-DAD4-4ED5-BE1A-05BB991F2821/Ionic%20HTML.app/www/index.html
+2014-10-15 16:34:21.029 Ionic HTML[27633:3866115] Multi-tasking -> Device: YES, App: YES
+2014-10-15 16:34:21.036 Ionic HTML[27633:3866115] Unlimited access to network resources
+2014-10-15 16:34:21.163 Ionic HTML[27633:3866115] [CDVTimer][keyboard] 0.065982ms
+2014-10-15 16:34:21.163 Ionic HTML[27633:3866115] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-15 16:34:21.163 Ionic HTML[27633:3866115] [CDVTimer][statusbar] 0.129044ms
+2014-10-15 16:34:21.163 Ionic HTML[27633:3866115] [CDVTimer][TotalPluginStartup] 0.541031ms
+2014-10-15 16:34:21.323 Ionic HTML[27633:3866115] Resetting plugins due to page load.
+2014-10-15 16:34:21.559 Ionic HTML[27633:3866115] Finished load of: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/1F6D4566-5538-4562-B369-EE5776B0C428/data/Containers/Bundle/Application/E24EFB07-A243-445B-8CB1-3FE3771E4A46/Ionic%20HTML.app/www/index.html
+2014-10-15 16:39:53.197 Ionic HTML[28139:3898512] Multi-tasking -> Device: YES, App: YES
+2014-10-15 16:39:53.224 Ionic HTML[28139:3898512] Unlimited access to network resources
+2014-10-15 16:39:53.717 Ionic HTML[28139:3898512] [CDVTimer][keyboard] 0.395000ms
+2014-10-15 16:39:53.717 Ionic HTML[28139:3898512] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-15 16:39:53.717 Ionic HTML[28139:3898512] [CDVTimer][statusbar] 0.455976ms
+2014-10-15 16:39:53.718 Ionic HTML[28139:3898512] [CDVTimer][TotalPluginStartup] 1.501977ms
+2014-10-15 16:39:54.251 Ionic HTML[28139:3898512] Resetting plugins due to page load.
+2014-10-15 16:39:55.128 Ionic HTML[28139:3898512] Finished load of: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/1F6D4566-5538-4562-B369-EE5776B0C428/data/Containers/Bundle/Application/178B6B19-E534-4C50-9381-E376C5C9BB06/Ionic%20HTML.app/www/index.html
+2014-10-15 16:40:16.425 Ionic HTML[28139:3898512] "fields": {
+	"a": {
+		"text": "HThe Every time I see the new version is",
+		"edit": "true"
+	},
+	"b": {
+		"text": "",
+		"edit": "false"
+	},
+	"c": {
+		"text": "",
+		"edit": "false"
+	}
+}
+2014-10-15 16:41:59.893 Ionic HTML[28470:3912556] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/6F75E932-DDAF-490F-8817-1E546BCF6675/data/Containers/Data/Application/EC8995F1-E2D9-4780-BA98-C1754BDB1C5C/Library/Cookies/Cookies.binarycookies
+2014-10-15 16:42:00.036 Ionic HTML[28470:3912556] Multi-tasking -> Device: YES, App: YES
+2014-10-15 16:42:00.051 Ionic HTML[28470:3912556] Unlimited access to network resources
+2014-10-15 16:42:00.273 Ionic HTML[28470:3912556] [CDVTimer][keyboard] 0.100970ms
+2014-10-15 16:42:00.273 Ionic HTML[28470:3912556] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-15 16:42:00.273 Ionic HTML[28470:3912556] [CDVTimer][statusbar] 0.219047ms
+2014-10-15 16:42:00.274 Ionic HTML[28470:3912556] [CDVTimer][TotalPluginStartup] 0.830948ms
+2014-10-15 16:42:01.323 Ionic HTML[28470:3912556] Resetting plugins due to page load.
+2014-10-15 16:42:01.673 Ionic HTML[28470:3912556] Finished load of: file:///Users/Jerry/Library/Developer/CoreSimulator/Devices/6F75E932-DDAF-490F-8817-1E546BCF6675/data/Containers/Bundle/Application/35CF976A-FAE7-4CF8-8D88-A12F04BBEB41/Ionic%20HTML.app/www/index.html

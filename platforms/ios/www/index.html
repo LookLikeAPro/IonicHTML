@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  //add in famo.us effects
+  //code snippets
+  //export
+  //javascript $sce
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+    <script src="cordova.js"></script>
+    <!-- Personal -->
+    <link href="css/style.css" rel="stylesheet">
+    <script src="js/app.js"></script>
+    <script src="js/jquery.min.js"></script>
+  </head>
+
+  <body ng-app="App" ng-controller="MainCtrl" class="platform-ios platform-cordova platform-webview">
+    <ion-tabs class="nav-title-slide-ios7 tabs-striped  tabs-background-dark tabs-light tabs-icon-left">
+      <ion-tab title="HTML">
+        <ion-content [direction="y" ] [padding="true" ] [scroll="true" ] [overflow-scroll="true" ] [scrollbar-y="" ] [overflow-scroll="true" ] [on-scroll="resize()" ] [on-scroll-complete="" ] [has-bouncing="true" ] >
+          <div class="card">
+            <div class="item item-divider">
+              HTML Code
+            </div>
+            <div class="item item-text-wrap">
+              <textarea ng-model="fields.a.text" id="fields.a" ng-keypress="updateEditor('fields.a'); save()" type="text" spellcheck="false" style="resize: none" placeholder="Type HTML Here" rows="35"></textarea>
+            </div>
+          </div>
+        </ion-content>
+      </ion-tab>
+
+      <ion-tab title="VIEW" on-select="parse()"> 
+        <panel>
+          <div ng-bind-html=output></div>
+        </panel>
+      </ion-tab>
+
+    </ion-tabs>
+  </body>
+</html>

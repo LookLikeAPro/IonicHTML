@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.ionicframework.test2478017" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="AllowInlineMediaPlayback" value="false" />
+    <preference name="AutoHideSplashScreen" value="true" />
+    <preference name="BackupWebStorage" value="cloud" />
+    <preference name="DisallowOverscroll" value="false" />
+    <preference name="EnableViewportScale" value="false" />
+    <preference name="FadeSplashScreen" value="true" />
+    <preference name="FadeSplashScreenDuration" value=".25" />
+    <preference name="KeyboardDisplayRequiresUserAction" value="true" />
+    <preference name="MediaPlaybackRequiresUserAction" value="false" />
+    <preference name="ShowSplashScreenSpinner" value="true" />
+    <preference name="SuppressesIncrementalRendering" value="false" />
+    <preference name="TopActivityIndicator" value="gray" />
+    <preference name="GapBetweenPages" value="0" />
+    <preference name="PageLength" value="0" />
+    <preference name="PaginationBreakingMode" value="page" />
+    <preference name="PaginationMode" value="unpaginated" />
+    <feature name="LocalStorage">
+        <param name="ios-package" value="CDVLocalStorage" />
+    </feature>
+    <feature name="Keyboard">
+        <param name="ios-package" onload="true" value="IonicKeyboard" />
+    </feature>
+    <feature name="Console">
+        <param name="ios-package" value="CDVLogger" />
+    </feature>
+    <feature name="Device">
+        <param name="ios-package" value="CDVDevice" />
+    </feature>
+    <icon height="60" src="icons/ios/icon-57.png" width="60" />
+    <icon height="120" src="icons/ios/icon-57-2x.png" width="120" />
+    <icon height="76" src="icons/ios/icon-72.png" width="76" />
+    <icon height="152" src="icons/ios/icon-72.png" width="152" />
+    <icon height="40" src="icons/ios/icon-57.png" width="40" />
+    <icon height="80" src="icons/ios/icon-57.png" width="80" />
+    <icon height="57" src="icons/ios/icon-57.png" width="57" />
+    <icon height="114" src="icons/ios/icon-57-2x.png" width="114" />
+    <icon height="72" src="icons/ios/icon-72.png" width="72" />
+    <icon height="144" src="icons/ios/icon-72-2x.png" width="144" />
+    <icon height="29" src="icons/ios/icon-57.png" width="29" />
+    <icon height="58" src="icons/ios/icon-57.png" width="58" />
+    <icon height="50" src="icons/ios/icon-72.png" width="50" />
+    <icon height="100" src="icons/ios/icon-72.png" width="100" />
+    <name>Ionic HTML</name>
+    <description>
+        A minimal HTML editor that lets you test out ideas on the go.
+    </description>
+    <author email="contact@jerryzhou.net" href="jerryzhou.net">
+      Jerry Zhou
+  </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="UIWebViewBounce" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="BackupWebStorage" value="none" />
+    <feature name="StatusBar">
+        <param name="ios-package" onload="true" value="CDVStatusBar" />
+    </feature>
+    <icon src="blackberry10/icon-86.png" />
+</widget>
